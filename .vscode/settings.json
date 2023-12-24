@@ -1,0 +1,4 @@
+{
+    "gitlens.views.commits.files.compact": true,
+    "gitlens.views.commits.files.layout": "tree"
+}
